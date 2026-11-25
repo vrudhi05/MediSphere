@@ -1,6 +1,6 @@
-# MediSphere — AI-Powered Hospital Management System
+# MediSphere — Hospital Management System
 
-*A smart, AI-integrated backend platform for streamlining hospital operations*
+*A smart, backend platform for streamlining hospital operations*
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
